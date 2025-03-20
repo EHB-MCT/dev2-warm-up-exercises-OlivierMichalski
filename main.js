@@ -1,3 +1,5 @@
+import Student from './Student.js';
+
 import {
     getRandomScores,
     getStudentJSON,
